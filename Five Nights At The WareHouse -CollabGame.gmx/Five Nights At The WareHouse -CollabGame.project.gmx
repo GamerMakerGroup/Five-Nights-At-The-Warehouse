@@ -6,10 +6,13 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\sprite0</sprite>
+    <sprite>sprites\BITCH_PLEZ</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\OBITCH_PLEZ</object>
+  </objects>
   <help>
     <rtf>help.rtf</rtf>
   </help>
