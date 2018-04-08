@@ -7,9 +7,13 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprite0</sprite>
+    <sprite>sprites\TESTY_TEST_TEST</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\otesty_test_test</object>
+  </objects>
   <help>
     <rtf>help.rtf</rtf>
   </help>
